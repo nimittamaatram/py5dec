@@ -1,5 +1,5 @@
 #1st
-'''a=int(input("Enter the first number: "))
+a=int(input("Enter the first number: "))
 b=int(input("Enter the second number: "))
 c=0
 for x in range(a, b+1):
@@ -28,7 +28,7 @@ fact=int(input("Dear user, you are requested to kindly lend this program a numbe
 res=1
 for x in range(1,fact+1):
     res*=x
-print("And here you go, the factorial of", fact, "is", res)'''
+print("And here you go, the factorial of", fact, "is", res)
 
 #5th
 for x in range(1,6):
